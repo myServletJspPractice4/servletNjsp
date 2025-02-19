@@ -1,13 +1,10 @@
 package com.ohgiraffers.test.mvc.common.jdbc;
 
-import com.ohgiraffers.mvc.common.config.ConfigLocation;
+import com.ohgiraffers.test.mvc.common.config.ConfigLocation;
 
 import java.io.FileReader;
 import java.io.IOException;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Properties;
 
 public class JDBCTemplate {
