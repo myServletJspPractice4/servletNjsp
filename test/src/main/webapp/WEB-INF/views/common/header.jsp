@@ -1,16 +1,9 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: hi
-  Date: 2025-02-19
-  Time: 오전 9:59
-  To change this template use File | Settings | File Templates.
---%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java" pageEncoding="UTF-8" %>
 <html>
 <head>
     <title>Title</title>
 </head>
 <body>
-
+<h1>Welcome to MVC land! (Servlet & JSP version)</h1>
 </body>
 </html>
