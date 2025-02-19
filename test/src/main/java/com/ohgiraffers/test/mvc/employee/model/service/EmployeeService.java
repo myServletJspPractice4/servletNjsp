@@ -6,7 +6,7 @@ import com.ohgiraffers.test.mvc.employee.model.dto.EmployeeDTO;
 import java.sql.Connection;
 import java.util.List;
 
-import static com.ohgiraffers.mvc.common.jdbc.JDBCTemplate.*;
+import static com.ohgiraffers.test.mvc.common.jdbc.JDBCTemplate.*;
 
 public class EmployeeService {
 
