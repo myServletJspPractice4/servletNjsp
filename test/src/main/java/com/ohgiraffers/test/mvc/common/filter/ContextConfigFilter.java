@@ -1,6 +1,6 @@
 package com.ohgiraffers.test.mvc.common.filter;
 
-import com.ohgiraffers.mvc.common.config.ConfigLocation;
+import com.ohgiraffers.test.mvc.common.config.ConfigLocation;
 import jakarta.servlet.*;
 import jakarta.servlet.annotation.WebFilter;
 

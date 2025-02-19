@@ -1,7 +1,7 @@
 package com.ohgiraffers.test.mvc.employee.model.service;
 
-import com.ohgiraffers.mvc.employee.model.dao.EmployeeDAO;
-import com.ohgiraffers.mvc.employee.model.dto.EmployeeDTO;
+import com.ohgiraffers.test.mvc.employee.model.dao.EmployeeDAO;
+import com.ohgiraffers.test.mvc.employee.model.dto.EmployeeDTO;
 
 import java.sql.Connection;
 import java.util.List;
